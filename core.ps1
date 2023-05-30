@@ -1,5 +1,6 @@
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
+color b
 
 $form = New-Object System.Windows.Forms.Form
 $form.Text = 'Lunar Client Crack'
